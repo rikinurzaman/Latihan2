@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'Latihan sob'
+        echo 'Latihan sob';
+        echo 'update'
         ?>
     </body>
 </html>
