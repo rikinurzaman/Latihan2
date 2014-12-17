@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo 'Latihan sob';
-        echo 'da aku mah apa atuh'
+        echo 'da aku mah apa atuh update'
         ?>
     </body>
 </html>
